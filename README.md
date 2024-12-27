@@ -14,9 +14,9 @@
 
 [FAQ](#faq) 
 
-##Flashing and Configuration Guide
+## Flashing and Configuration Guide
 
-###If you are here is because you have received a board for your small LCD12864 panel from your VORON kit, don't worry this file will guide you step by step on how to flash and configure correctly your board to make your display work properly, Thank you for being here!
+### If you are here is because you have received a board for your small LCD12864 panel from your VORON kit, don't worry this file will guide you step by step on how to flash and configure correctly your board to make your display work properly, Thank you for being here!
 
 ### Please read in the order presented on this page.
 
@@ -61,7 +61,7 @@ It is a solution to reduce the amount of cables going from the display to the VO
     make clean
 	make
     ```
-	
+![Image](https://github.com/ekostudio3d/Klipper-Expander/blob/main/Images/img20.png)	
 ![Image](https://github.com/ekostudio3d/STM32-mini12864/blob/main/Images/cap4.png)
  
 ### Generate firmware that matches the current klipper version.
@@ -120,13 +120,13 @@ It is important to know the serial number of our board to be able to include it 
 
 ![Image](https://github.com/ekostudio3d/STM32-mini12864/blob/main/Images/cap13.png)
 
-###Don't worry if you get this error in your interface, just remove the `!` sign that appears in the `kill_pin` line in the `Klipper-mini12864` file.
+### Don't worry if you get this error in your interface, just remove the `!` sign that appears in the `kill_pin` line in the `Klipper-mini12864` file.
 
 ![Image](https://github.com/ekostudio3d/STM32-mini12864/blob/main/Images/cap14.png)
 
 ## FAQ
 
-###Join our Discord and WeChat groups to receive after-sales support.
+### Join our Discord and WeChat groups to receive after-sales support.
 
  <br/><img src=https://github.com/Lzhikai/SIBOOR-Voron-2.4-AUG/blob/main/Images/DISCORD.jpg width="1080"/><br/> 
  
